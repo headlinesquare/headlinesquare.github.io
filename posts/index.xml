@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My Awesome Blog</title>
+        <title>All Posts - HeadlineSquare</title>
         <link>https://thomas_router.codeberg.page/posts/</link>
-        <description>All Posts | My Awesome Blog</description>
+        <description>All Posts | HeadlineSquare</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Apr 2025 19:30:00 -0500</lastBuildDate><atom:link href="https://thomas_router.codeberg.page/posts/" rel="self" type="application/rss+xml" /><item>
     <title>[Saturday, April 5] US News Headlines from r/politics</title>
     <link>https://thomas_router.codeberg.page/posts/20250405_politics/</link>

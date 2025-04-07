@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My Awesome Blog</title>
+        <title>Categories - Category - HeadlineSquare</title>
         <link>https://thomas_router.codeberg.page/categories/</link>
-        <description>Categories - Category - My Awesome Blog</description>
+        <description>Categories - Category - HeadlineSquare</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://thomas_router.codeberg.page/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
