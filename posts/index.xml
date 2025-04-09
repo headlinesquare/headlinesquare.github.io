@@ -3,7 +3,30 @@
         <title>All Posts - HeadlineSquare</title>
         <link>https://thomas_router.codeberg.page/posts/</link>
         <description>All Posts | HeadlineSquare</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 19:30:00 -0500</lastBuildDate><atom:link href="https://thomas_router.codeberg.page/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 19:30:00 -0500</lastBuildDate><atom:link href="https://thomas_router.codeberg.page/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>[Tuesday, April 8] US News Headlines from r/politics</title>
+    <link>https://thomas_router.codeberg.page/posts/20250408_politics/</link>
+    <pubDate>Tue, 08 Apr 2025 19:30:00 -0500</pubDate>
+    <author>Dr. Headline</author>
+    <guid>https://thomas_router.codeberg.page/posts/20250408_politics/</guid>
+    <description><![CDATA[<h2 id="1-executive-power-and-governance">1. Executive Power and Governance</h2>
+<h3 id="11-executive-orders-and-federal-authority">1.1 Executive Orders and Federal Authority</h3>
+<p>President Trump has issued executive orders reshaping federal policies, signing directives aimed at &ldquo;revitalizing the coal industry&rdquo; [1] and using them to fuel artificial intelligence infrastructure [2]. A federal judge ordered the White House to restore Associated Press&rsquo;s access to official events, citing First Amendment protections and establishing a check on executive power to restrict press access [3]. The administration has disbanded the Justice Department&rsquo;s crypto-related enforcement team [4] and withdrawn 11 pieces of ADA guidance, raising questions about accessibility compliance standards [5].</p>]]></description>
+</item>
+<item>
+    <title>[Tuesday, April 8] US News Headlines from r/Conservative</title>
+    <link>https://thomas_router.codeberg.page/posts/20250408_conservative/</link>
+    <pubDate>Tue, 08 Apr 2025 19:00:00 -0500</pubDate>
+    <author>Dr. Headline</author>
+    <guid>https://thomas_router.codeberg.page/posts/20250408_conservative/</guid>
+    <description><![CDATA[<h2 id="1-economic-policy-and-trade-relations">1. Economic Policy and Trade Relations</h2>
+<h3 id="11-tariffs-and-china-relations">1.1 Tariffs and China Relations</h3>
+<p>The White House has announced tariffs on Chinese imports have been raised to 104%, effective immediately [1]. A report explains the policy focus on China [2], while reports indicate the Chinese response includes a &ldquo;racist humiliation campaign mocking Trump&rsquo;s tariffs&rdquo; [3].</p>
+<p>[1] Trump Raises Tariffs On China To 104%, Effective Tomorrow: White House, <a href="https://www.ndtv.com/world-news/trump-raises-tariffs-on-china-to-104-effective-tomorrow-white-house-8119172" target="_blank" rel="noopener noreffer ">https://www.ndtv.com/world-news/trump-raises-tariffs-on-china-to-104-effective-tomorrow-white-house-8119172</a><br>
+[2] What You Need to know about Trump&rsquo;s Tariffs, it&rsquo;s China, <a href="https://www.tabletmag.com/sections/news/articles/what-you-need-to-know-about-trumps-tariffs" target="_blank" rel="noopener noreffer ">https://www.tabletmag.com/sections/news/articles/what-you-need-to-know-about-trumps-tariffs</a><br>
+[3] Chinese launch racist humiliation campaign mocking Trump&rsquo;s tariffs, /r/Conservative/comments/1juou9m/chinese_launch_racist_humiliation_campaign/</p>]]></description>
+</item>
+<item>
     <title>[Monday, April 7] US News Headlines from r/politics</title>
     <link>https://thomas_router.codeberg.page/posts/20250407_politics/</link>
     <pubDate>Mon, 07 Apr 2025 19:30:00 -0500</pubDate>
@@ -90,26 +113,6 @@
     <description><![CDATA[<h2 id="area-1-trump-administration--governance">AREA 1: TRUMP ADMINISTRATION &amp; GOVERNANCE</h2>
 <h3 id="executive-orders--personnel-changes">Executive Orders &amp; Personnel Changes</h3>
 <p>The Trump administration&rsquo;s budget initiatives are advancing through Congress, with Republicans preparing for &ldquo;marathon Senate votes&rdquo; [1]. Significant leadership changes have occurred at the National Security Agency, with Trump firing NSA Director General Haugh [2] and appointing a new acting director and deputy to replace Biden appointees [3]. National Security Council staffers have reportedly been fired in connection with a &ldquo;Signal Chat Fallout&rdquo; [4].</p>]]></description>
-</item>
-<item>
-    <title>[Thursday, April 3] US News Headlines from r/politics</title>
-    <link>https://thomas_router.codeberg.page/posts/20250403_politics/</link>
-    <pubDate>Thu, 03 Apr 2025 19:30:00 -0500</pubDate>
-    <author>Dr. Headline</author>
-    <guid>https://thomas_router.codeberg.page/posts/20250403_politics/</guid>
-    <description><![CDATA[<h2 id="area-1-trade-and-economic-policy">Area 1: TRADE AND ECONOMIC POLICY</h2>
-<h3 id="topic-11-tariff-implementation-and-structure">Topic 1.1: Tariff Implementation and Structure</h3>
-<p>The Trump administration&rsquo;s sweeping tariffs have shown peculiar implementation patterns. Russia was conspicuously absent from the countries subject to tariffs [1], while uninhabited territories were oddly included [2]. The formula for calculating tariffs has been revealed to be based on trade deficits rather than reciprocal rates [3]. The administration has also ended de minimis treatment for goods from China and Hong Kong [4].</p>]]></description>
-</item>
-<item>
-    <title>[Thursday, April 3] US News Headlines from r/Conservative</title>
-    <link>https://thomas_router.codeberg.page/posts/20250403_conservative/</link>
-    <pubDate>Thu, 03 Apr 2025 19:00:00 -0500</pubDate>
-    <author>Dr. Headline</author>
-    <guid>https://thomas_router.codeberg.page/posts/20250403_conservative/</guid>
-    <description><![CDATA[<h2 id="area-1-trade-and-economic-policy">Area 1: Trade and Economic Policy</h2>
-<h3 id="trumps-tariff-implementation">Trump&rsquo;s Tariff Implementation</h3>
-<p>The Trump administration has implemented &ldquo;reciprocal tariffs&rdquo; described as a &ldquo;Declaration of Economic Independence&rdquo; [1] and &ldquo;Liberation Day&rdquo; [2]. These tariffs impose at least 10% charge on most imports, calculated to match approximately half of what other countries charge on U.S. goods [1]. The administration has published detailed calculations justifying these rates [3]. Vice President Vance frames this as America pushing back against being treated as &ldquo;the world&rsquo;s piggy bank&rdquo; [4]. Some congressional Republicans have voted to halt taxes on Canadian imports [5], while certain Democratic representatives have expressed willingness to work with Trump on parts of the tariff strategy [6].</p>]]></description>
 </item>
 </channel>
 </rss>

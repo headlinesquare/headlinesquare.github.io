@@ -2,9 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://thomas_router.codeberg.page/posts/20250408_politics/</loc><lastmod>2025-04-08T19:30:00-05:00</lastmod></url><url>
+            <loc>https://thomas_router.codeberg.page/</loc><lastmod>2025-04-08T19:30:00-05:00</lastmod></url><url>
+            <loc>https://thomas_router.codeberg.page/posts/</loc><lastmod>2025-04-08T19:30:00-05:00</lastmod></url><url>
+            <loc>https://thomas_router.codeberg.page/posts/20250408_conservative/</loc><lastmod>2025-04-08T19:00:00-05:00</lastmod></url><url>
             <loc>https://thomas_router.codeberg.page/posts/20250407_politics/</loc><lastmod>2025-04-07T19:30:00-05:00</lastmod></url><url>
-            <loc>https://thomas_router.codeberg.page/</loc><lastmod>2025-04-07T19:30:00-05:00</lastmod></url><url>
-            <loc>https://thomas_router.codeberg.page/posts/</loc><lastmod>2025-04-07T19:30:00-05:00</lastmod></url><url>
             <loc>https://thomas_router.codeberg.page/posts/20250407_conservative/</loc><lastmod>2025-04-07T19:00:00-05:00</lastmod></url><url>
             <loc>https://thomas_router.codeberg.page/about/</loc><lastmod>2025-04-06T20:00:00-05:00</lastmod></url><url>
             <loc>https://thomas_router.codeberg.page/about/introduction/</loc><lastmod>2025-04-06T20:00:00-05:00</lastmod></url><url>
