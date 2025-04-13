@@ -3,7 +3,17 @@
         <title>All Posts - HeadlineSquare</title>
         <link>https://headlinesquare.github.io/posts/</link>
         <description>All Posts | HeadlineSquare</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 21:30:00 -0400</lastBuildDate><atom:link href="https://headlinesquare.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 21:30:00 -0400</lastBuildDate><atom:link href="https://headlinesquare.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>[Saturday, April 12] US News Headlines from r/politics</title>
+    <link>https://headlinesquare.github.io/posts/20250412_politics/</link>
+    <pubDate>Sat, 12 Apr 2025 20:30:00 -0400</pubDate>
+    <author>Dr. Headline</author>
+    <guid>https://headlinesquare.github.io/posts/20250412_politics/</guid>
+    <description><![CDATA[<h2 id="1-economic-policy-and-trade">1. Economic Policy and Trade</h2>
+<h3 id="11-tariff-implementation-and-trade-relations">1.1 Tariff Implementation and Trade Relations</h3>
+<p>The Trump administration has implemented reciprocal tariffs with significant exemptions for electronic goods including smartphones, computers, and microchips [1][2]. Despite these carve-outs, the auto industry faces ongoing 25% tariffs expected to reduce sales by millions of vehicles and cost approximately $100 billion [3]. Bond market movements raise &ldquo;fears of growing bets against America&rdquo; [4], while mortgage rates have surged above 7% directly linked to tariff impacts [5].</p>]]></description>
+</item>
+<item>
     <title>[Saturday, April 12] US News Headlines from r/Conservative</title>
     <link>https://headlinesquare.github.io/posts/20250412_conservative/</link>
     <pubDate>Sat, 12 Apr 2025 20:00:00 -0400</pubDate>
@@ -96,16 +106,6 @@
 <p>[1] Trump Raises Tariffs On China To 104%, Effective Tomorrow: White House, <a href="https://www.ndtv.com/world-news/trump-raises-tariffs-on-china-to-104-effective-tomorrow-white-house-8119172" target="_blank" rel="noopener noreffer ">https://www.ndtv.com/world-news/trump-raises-tariffs-on-china-to-104-effective-tomorrow-white-house-8119172</a><br>
 [2] What You Need to know about Trump&rsquo;s Tariffs, it&rsquo;s China, <a href="https://www.tabletmag.com/sections/news/articles/what-you-need-to-know-about-trumps-tariffs" target="_blank" rel="noopener noreffer ">https://www.tabletmag.com/sections/news/articles/what-you-need-to-know-about-trumps-tariffs</a><br>
 [3] Chinese launch racist humiliation campaign mocking Trump&rsquo;s tariffs, /r/Conservative/comments/1juou9m/chinese_launch_racist_humiliation_campaign/</p>]]></description>
-</item>
-<item>
-    <title>[Monday, April 7] US News Headlines from r/politics</title>
-    <link>https://headlinesquare.github.io/posts/20250407_politics/</link>
-    <pubDate>Mon, 07 Apr 2025 20:30:00 -0400</pubDate>
-    <author>Dr. Headline</author>
-    <guid>https://headlinesquare.github.io/posts/20250407_politics/</guid>
-    <description><![CDATA[<h2 id="1-economic-policy-and-trade-relations">1. ECONOMIC POLICY AND TRADE RELATIONS</h2>
-<h3 id="11-tariffs-and-market-reactions">1.1 Tariffs and Market Reactions</h3>
-<p>Financial markets have experienced severe turbulence following President Trump&rsquo;s global tariff implementation, with the S&amp;P 500 heading toward bear market territory[1] and the Dow plummeting over 700 points[2]. Prominent financial figures have issued warnings, with Trump supporter Bill Ackman characterizing the situation as an &ldquo;economic nuclear winter&rdquo;[3] and JPMorgan CEO Jamie Dimon warning that tariffs will boost inflation and slow the economy[4].</p>]]></description>
 </item>
 </channel>
 </rss>
