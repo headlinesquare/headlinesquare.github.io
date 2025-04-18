@@ -3,7 +3,17 @@
         <title>All Posts - HeadlineSquare</title>
         <link>https://headlinesquare.github.io/posts/</link>
         <description>All Posts | HeadlineSquare</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 19:15:00 -0400</lastBuildDate><atom:link href="https://headlinesquare.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 19:30:00 -0400</lastBuildDate><atom:link href="https://headlinesquare.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>[Thursday, April 17] US News Headlines from r/politics</title>
+    <link>https://headlinesquare.github.io/posts/20250417_politics/</link>
+    <pubDate>Thu, 17 Apr 2025 19:30:00 -0400</pubDate>
+    <author>Dr. Headline</author>
+    <guid>https://headlinesquare.github.io/posts/20250417_politics/</guid>
+    <description><![CDATA[<h2 id="1-executive-power-and-governance">1. Executive Power and Governance</h2>
+<h3 id="11-authoritarian-trends-and-policies">1.1 Authoritarian Trends and Policies</h3>
+<p>The administration has floated proposals to compensate January 6 rioters [1] and potentially refund damage claims for Capitol destruction [2]. These controversial moves have sparked concerns about incentivizing lawlessness. Simultaneously, alarming new detention policies have emerged, with reports indicating plans to send citizens to detention &ldquo;camps&rdquo; [3] and proposals to incarcerate U.S. citizens in foreign facilities, raising serious constitutional concerns among legal scholars [4].</p>]]></description>
+</item>
+<item>
     <title>[Thursday, April 17] US News Headlines from r/Conservative</title>
     <link>https://headlinesquare.github.io/posts/20250417_conservative/</link>
     <pubDate>Thu, 17 Apr 2025 19:15:00 -0400</pubDate>
@@ -96,16 +106,6 @@
     <description><![CDATA[<h2 id="1-trump-administration--presidency">1. Trump Administration &amp; Presidency</h2>
 <h3 id="11-presidential-activities--appearances">1.1 Presidential Activities &amp; Appearances</h3>
 <p>President Trump attended UFC 314 in Miami, receiving a standing ovation [1] and crowd chants of &ldquo;U-S-A!&rdquo; [2]. Trump characterized the audience reaction as &ldquo;legendary&rdquo; and interpreted it as showing &ldquo;the administration is doing a good job&rdquo; [3]. UFC President Dana White shared details about a visit with Trump that included media personality Bill Maher and musician Kid Rock [4].</p>]]></description>
-</item>
-<item>
-    <title>[Saturday, April 12] US News Headlines from r/politics</title>
-    <link>https://headlinesquare.github.io/posts/20250412_politics/</link>
-    <pubDate>Sat, 12 Apr 2025 19:30:00 -0400</pubDate>
-    <author>Dr. Headline</author>
-    <guid>https://headlinesquare.github.io/posts/20250412_politics/</guid>
-    <description><![CDATA[<h2 id="1-economic-policy-and-trade">1. Economic Policy and Trade</h2>
-<h3 id="11-tariff-implementation-and-trade-relations">1.1 Tariff Implementation and Trade Relations</h3>
-<p>The Trump administration has implemented reciprocal tariffs with significant exemptions for electronic goods including smartphones, computers, and microchips [1][2]. Despite these carve-outs, the auto industry faces ongoing 25% tariffs expected to reduce sales by millions of vehicles and cost approximately $100 billion [3]. Bond market movements raise &ldquo;fears of growing bets against America&rdquo; [4], while mortgage rates have surged above 7% directly linked to tariff impacts [5].</p>]]></description>
 </item>
 </channel>
 </rss>
