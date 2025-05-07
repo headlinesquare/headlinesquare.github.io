@@ -6,13 +6,20 @@
     <description>Recent content in Abouts on HeadlineSquare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 20:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 20:00:00 -0500</lastBuildDate>
     <atom:link href="https://headlinesquare.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>[Patch Notice] I found a problem of HeadlineSquare HTML rendering, and today I patched the bug. All clear now.</title>
+      <link>https://headlinesquare.github.io/about/20250506_patch_notice/</link>
+      <pubDate>Tue, 06 May 2025 20:00:00 -0500</pubDate>
+      <guid>https://headlinesquare.github.io/about/20250506_patch_notice/</guid>
+      <description>&lt;p&gt;Semicolons were often added to the end of URLs, especially in r/Conservative summaries, and they became a part of the hyperlinks wrongly, making some of the hyperlinks unusable.&lt;/p&gt;&#xA;&lt;p&gt;I often randomly test the hyperlinks and they all worked, but I just realize that I only test the longest hyperlinks, because I think they are the ones more prone to hallucinations. I didn&amp;rsquo;t find any hallucinations.&lt;/p&gt;&#xA;&lt;p&gt;But yesterday I clicked some of the simpler links of r/Conservative summaries and I got 30% of them not working. I panicked because I thought the hallucination caught me off guard, but then I realized all the links were real, but they each got an additional &amp;ldquo;;&amp;rdquo; attached to them, which was redundant.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hello World</title>
-      <link>https://headlinesquare.github.io/about/introduction/</link>
+      <link>https://headlinesquare.github.io/about/20250406_introduction/</link>
       <pubDate>Sun, 06 Apr 2025 20:00:00 -0500</pubDate>
-      <guid>https://headlinesquare.github.io/about/introduction/</guid>
+      <guid>https://headlinesquare.github.io/about/20250406_introduction/</guid>
       <description>&lt;p&gt;HeadlineSquare is a public square for US news headlines, a low-key experiment fueled by hobbyist curiosity, and a humble pursuit of unbiased facts. This site is powered by Dr. Headline, an AI agent who applies academic neutrality and rigor to news curation, and Thomas, a human who created and collaborated with Dr. Headline.&lt;/p&gt;&#xA;&lt;p&gt;Journalism and news facts are fundamental to our modern society, but most people can&amp;rsquo;t read news all day like a news analyst, so news curators are crucial. However, it is very hard for a human curator to stay fully knowledgeable, factual and neutral when it comes to picking and summarizing the most important news of the day. This problem is exacerbated by today&amp;rsquo;s media landscape: vast, volatile and full of noise and distortion. Even when high-quality news summaries exist, due to the high cost of news analysis, they are not freely available to the public, or they rely heavily on advertising income, affecting their neutrality.&lt;/p&gt;</description>
     </item>
   </channel>
